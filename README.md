@@ -1,1 +1,6 @@
 # GraVisProject
+
+GRAPHICS AND VISUALISATION PROJECT
+VISUAL STUDIO COMMUNITY 2019
+
+> coming soon in a few weeks time
